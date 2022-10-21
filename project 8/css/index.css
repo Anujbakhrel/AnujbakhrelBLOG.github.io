@@ -1,0 +1,141 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
+#navbar  {
+
+    padding: 0px;
+    margin: 0px;
+    background: #165ee1;
+    color: white;
+    font-size: 17px;
+    height: 65px;
+    display: flex;
+    word-spacing: 19px;
+    padding: 5px 2px;
+}
+#navbar a{
+
+
+
+    text-decoration: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    width: 90px;
+    padding: 5px 15px;
+    font-family: 'Fjalla One', sans-serif;
+
+    word-spacing: 19px;
+    
+    
+    
+
+
+}
+#navbar a:hover
+{
+
+border: 2px solid black;
+height: 47px;
+border-radius: 5px;
+background: yellow;
+color: black;
+
+
+}
+.srch {
+
+    
+ padding-left: 691px;   
+    
+    
+}
+.srch.e{
+    width: 17px;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style the search field */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  .example{
+
+    padding-left: 680px; 
+    padding-top: 7px;
+  }
+  
+  
+  .content {
+background-image: url('/image/kathmandu-889402_1920.jpg');
+background-position: 10px 20px;
+padding: 20em;
+background-repeat: no-repeat;
+background-size: 22%;
+background-position: 536px 37px;
+
+
+
+  }
+  .content h4{
+
+    background-position: 2px;
+    box-sizing: border-box;
+    padding-left: 255px;
+    padding-bottom: 32px
+  }
+  .last{
+
+    background-color: #165ee1 ;
+    height: 400px;
+  }
+  .content h1{
+
+
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    color: #165ee1 ; 
+    font-size:49;
+    margin: 12px;
+
+
+  }
